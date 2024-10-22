@@ -1,2 +1,2 @@
 # cprogram
-This is my first program in C.
+This is going to be my first program in C.
