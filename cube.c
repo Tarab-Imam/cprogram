@@ -1,5 +1,5 @@
-#include <stdio.h>
-void main()
+# include<stdio.h>
+int main()
 {
     int i=1;
     while(i<=100)
@@ -7,4 +7,5 @@ void main()
         printf("%d",i*i*i);
         i++;
     }
+    return 0;
 }
