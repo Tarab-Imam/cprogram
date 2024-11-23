@@ -1,2 +1,2 @@
-# Cprogram
+# CPROGRAM
 This is going to be my first program in C.
